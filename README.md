@@ -1,16 +1,43 @@
-## Hi there 👋
+# 💫 About Me:
 
-<!--
-**Saher-AI-ML/Saher-AI-ML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer focused on building production-ready machine learning and AI systems.<br><br>I work across machine learning, AI engineering, MLOps, deployment, and cloud technologies, with a focus on turning models and AI applications into real-world systems.<br>\*ML: Python · NumPy · Pandas · Scikit-learn · PyTorch · TensorFlow<br>AI Engineering:** LLMs · RAG · AI Agents · OpenAI · Hugging Face · LangChain · LangGraph<br>MLOps & Deployment:** MLflow · Docker · FastAPI · Git · GitHub Actions · CI/CD<br>Cloud: AWS · S3 · EC2 · Cloud Deployment<br>Data & Databases: SQL · PostgreSQL · Chroma<br>
 
-Here are some ideas to get you started:
+## 🌐 Socials:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saher Atef) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saheratef21@gmail.com)
+
+**ML:**<br>
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**AI Engineering:**<br>
+![LLMs](https://img.shields.io/badge/LLMs-6E40C9.svg?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0A9396.svg?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-E4572E.svg?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=for-the-badge)
+
+**MLOps & Deployment:**<br>
+![MLflow](https://img.shields.io/badge/MLflow-0194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4CAF50.svg?style=for-the-badge)
+
+**Cloud:**<br>
+![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Cloud Deployment](https://img.shields.io/badge/Cloud%20Deployment-232F3E.svg?style=for-the-badge)
+
+**Data & Databases:**<br>
+![SQL](https://img.shields.io/badge/SQL-336791.svg?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-FF6446.svg?style=for-the-badge)
