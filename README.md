@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI/ML Engineer focused on building production-ready machine learning and AI systems.<br><br>I work across machine learning, AI engineering, MLOps, deployment, and cloud technologies, with a focus on turning models and AI applications into real-world systems.
+AI/ML Engineer focused on building production-ready machine learning and AI systems.<br>I work across machine learning, AI engineering, MLOps, deployment, and cloud technologies, with a focus on turning models and AI applications into real-world systems.
 
 ## 🛠️ Skills & Technologies
 
