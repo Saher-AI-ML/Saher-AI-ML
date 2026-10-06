@@ -1,7 +1,7 @@
 # 💫 About Me:
+AI/ML Engineer focused on building production-ready machine learning and AI systems.<br><br>I work across machine learning, AI engineering, MLOps, deployment, and cloud technologies, with a focus on turning models and AI applications into real-world systems.
 
-AI/ML Engineer focused on building production-ready machine learning and AI systems.<br><br>I work across machine learning, AI engineering, MLOps, deployment, and cloud technologies, with a focus on turning models and AI applications into real-world systems.<br>ML: Python · NumPy · Pandas · Scikit-learn · PyTorch · TensorFlow<br>AI Engineering: LLMs · RAG · AI Agents · OpenAI · Hugging Face · LangChain · LangGraph<br>MLOps & Deployment: MLflow · Docker · FastAPI · Git · GitHub Actions · CI/CD<br>Cloud: AWS · S3 · EC2 · Cloud Deployment<br>Data & Databases: SQL · PostgreSQL · Chroma<br>
-
+## 🛠️ Skills & Technologies
 
 **ML:**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
