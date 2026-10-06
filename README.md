@@ -1,11 +1,5 @@
 # 💫 About Me
 
-<kbd>Python</kbd>
-<kbd>NumPy</kbd>
-<kbd>Pandas</kbd>
-<kbd>Scikit-learn</kbd>
-<kbd>PyTorch</kbd>
-
 AI/ML Engineer focused on building production-ready machine learning and AI systems.<br>
 I work across machine learning, AI engineering, MLOps, deployment, and cloud technologies, with a focus on turning models and AI applications into real-world systems.
 
