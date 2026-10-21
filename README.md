@@ -1,5 +1,6 @@
 # 💫 About Me
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=2000&width=435&lines=AI%2FML+Engineer;Building+End-to-End+ML+Systems;Shipping+AI+Products+to+Production)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=2000&width=408&height=40&lines=AI%2FML+Engineer;Building+End-to-End+ML+Systems;Shipping+AI+Products+to+Production)](https://git.io/typing-svg)
+
 AI/ML Engineer focused on building production-ready machine learning and AI systems.<br>
 I work across machine learning, AI engineering, MLOps, deployment, and cloud technologies, with a focus on turning models and AI applications into real-world systems.
 
