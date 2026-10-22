@@ -1,5 +1,3 @@
-# 💫 About Me
-
 <img src="header.svg" width="100%" alt="Code Editor">
 
 <br/>
