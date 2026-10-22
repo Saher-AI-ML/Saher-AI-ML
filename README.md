@@ -3,15 +3,17 @@
 <br>
 AI/ML Engineer focused on building production-ready machine learning and AI systems.<br>
 I work across machine learning, AI engineering, MLOps, deployment, and cloud technologies, with a focus on turning models and AI applications into real-world systems.
-<img src="https://raw.githubusercontent.com/Saher-AI-ML/Saher-AI-ML/main/header.svg" width="100%" alt="Code Editor">
+<img src="header.svg" width="100%" alt="Code Editor">
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Saher-AI-ML/Saher-AI-ML/main/about.svg" width="100%" alt="Code Markdown">
+<img src="about.svg" width="100%" alt="Code Markdown">
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Saher-AI-ML/Saher-AI-ML/main/footer.svg" width="100%" alt="Code Status Bar">
+<img src="footer.svg" width="100%" alt="Code Status Bar">
+
+
 ## 🛠️ Skills & Technologies
 
 **ML:**<br> <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
