@@ -3,7 +3,15 @@
 <br>
 AI/ML Engineer focused on building production-ready machine learning and AI systems.<br>
 I work across machine learning, AI engineering, MLOps, deployment, and cloud technologies, with a focus on turning models and AI applications into real-world systems.
+<img src="header.svg" width="100%" alt="Code Editor">
 
+<br/>
+
+<img src="about.svg" width="100%" alt="Code Markdown">
+
+<br/>
+
+<img src="footer.svg" width="100%" alt="Code Status Bar">
 
 
 ## 🛠️ Skills & Technologies
